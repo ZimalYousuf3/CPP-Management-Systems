@@ -1,0 +1,15 @@
+101,Laptop,Electronics,80000,10,3
+102,Mobile,Electronics,60000,8,2
+103,Book,Stationery,1500,9,4
+104,Pencil,Stationery,25,12,5
+105,Rice,Grocery,4500,13,6,
+105,Sugar,Grocery,4000,14,7
+
+
+
+
+
+
+
+
+
